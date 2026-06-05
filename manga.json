@@ -11,7 +11,10 @@
     "hasCloudflare": true,
     "itemType": 1,
     "baseUrl": "https://yaoiscan.com",
-    "internalTags": ["BL-focused", "NSFW BL"]
+    "internalTags": [
+      "BL-focused",
+      "NSFW BL"
+    ]
   },
   {
     "name": "MyReadingManga",
@@ -25,7 +28,10 @@
     "hasCloudflare": false,
     "itemType": 1,
     "baseUrl": "https://myreadingmanga.info",
-    "internalTags": ["BL-focused", "NSFW BL"]
+    "internalTags": [
+      "BL-focused",
+      "NSFW BL"
+    ]
   },
   {
     "name": "MangaGo Yaoi",
@@ -47,7 +53,10 @@
     "appMinVerReq": "0.2.0",
     "additionalParams": "",
     "sourceCodeLanguage": 0,
-    "internalTags": ["BL-focused", "NSFW BL"]
+    "internalTags": [
+      "BL-focused",
+      "NSFW BL"
+    ]
   },
   {
     "name": "Yaoi Hentai",
@@ -69,7 +78,10 @@
     "appMinVerReq": "0.2.0",
     "additionalParams": "",
     "sourceCodeLanguage": 0,
-    "internalTags": ["BL-focused", "NSFW BL"]
+    "internalTags": [
+      "BL-focused",
+      "NSFW BL"
+    ]
   },
   {
     "name": "YaoiHub",
@@ -83,7 +95,11 @@
     "hasCloudflare": true,
     "itemType": 1,
     "baseUrl": "https://YaoiHub.net",
-    "internalTags": ["BL-focused", "NSFW BL", "webtoon/webcomic"]
+    "internalTags": [
+      "BL-focused",
+      "NSFW BL",
+      "webtoon/webcomic"
+    ]
   },
   {
     "name": "YaoiToon",
@@ -97,7 +113,11 @@
     "hasCloudflare": true,
     "itemType": 1,
     "baseUrl": "https://YaoiToon.net",
-    "internalTags": ["BL-focused", "NSFW BL", "webtoon/webcomic"]
+    "internalTags": [
+      "BL-focused",
+      "NSFW BL",
+      "webtoon/webcomic"
+    ]
   },
   {
     "name": "Webtoons",
@@ -119,7 +139,10 @@
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
     "sourceCodeLanguage": 1,
-    "internalTags": ["webtoon/webcomic", "mainstream"]
+    "internalTags": [
+      "webtoon/webcomic",
+      "mainstream"
+    ]
   },
   {
     "name": "WebtoonXYZ",
@@ -141,7 +164,10 @@
     "appMinVerReq": "0.2.0",
     "additionalParams": "",
     "sourceCodeLanguage": 0,
-    "internalTags": ["webtoon/webcomic", "BL-compatible"]
+    "internalTags": [
+      "webtoon/webcomic",
+      "BL-compatible"
+    ]
   },
   {
     "name": "1st Manhwa",
@@ -163,7 +189,10 @@
     "appMinVerReq": "0.2.0",
     "additionalParams": "",
     "sourceCodeLanguage": 0,
-    "internalTags": ["webtoon/webcomic", "BL-compatible"]
+    "internalTags": [
+      "webtoon/webcomic",
+      "BL-compatible"
+    ]
   },
   {
     "name": "OmegaScans",
@@ -185,7 +214,11 @@
     "appMinVerReq": "0.2.0",
     "additionalParams": "",
     "sourceCodeLanguage": 0,
-    "internalTags": ["BL-compatible", "mainstream", "webtoon/webcomic"]
+    "internalTags": [
+      "BL-compatible",
+      "mainstream",
+      "webtoon/webcomic"
+    ]
   },
   {
     "name": "MangaOwl.one (unoriginal)",
@@ -207,7 +240,10 @@
     "appMinVerReq": "0.2.0",
     "additionalParams": "",
     "sourceCodeLanguage": 0,
-    "internalTags": ["BL-compatible", "mainstream"]
+    "internalTags": [
+      "BL-compatible",
+      "mainstream"
+    ]
   },
   {
     "name": "Harimanga",
@@ -229,7 +265,10 @@
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
     "sourceCodeLanguage": 0,
-    "internalTags": ["BL-compatible", "webtoon/webcomic"]
+    "internalTags": [
+      "BL-compatible",
+      "webtoon/webcomic"
+    ]
   },
   {
     "name": "ReadComicOnline",
@@ -251,7 +290,10 @@
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
     "sourceCodeLanguage": 1,
-    "internalTags": ["western-comic", "mainstream"]
+    "internalTags": [
+      "western-comic",
+      "mainstream"
+    ]
   },
   {
     "name": "Comix",
@@ -273,7 +315,9 @@
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
     "sourceCodeLanguage": 1,
-    "internalTags": ["western-comic"]
+    "internalTags": [
+      "western-comic"
+    ]
   },
   {
     "name": "MangaSee",
@@ -295,7 +339,10 @@
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
     "sourceCodeLanguage": 0,
-    "internalTags": ["BL-compatible", "mainstream"]
+    "internalTags": [
+      "BL-compatible",
+      "mainstream"
+    ]
   },
   {
     "name": "Manganato",
@@ -317,12 +364,15 @@
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
     "sourceCodeLanguage": 0,
-    "internalTags": ["BL-compatible", "mainstream"]
+    "internalTags": [
+      "BL-compatible",
+      "mainstream"
+    ]
   },
   {
     "name": "MangaPark",
-    "id": 400490168,
-    "baseUrl": "https://mangapark.io",
+    "id": 8492018,
+    "baseUrl": "https://mangapark.net",
     "lang": "en",
     "typeSource": "single",
     "iconUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/dart/manga/src/en/mangapark/icon.png",
@@ -331,7 +381,7 @@
     "isNsfw": false,
     "hasCloudflare": false,
     "sourceCodeUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/dart/manga/src/en/mangapark/mangapark.dart",
-    "apiUrl": "https://mangapark.io/apo/",
+    "apiUrl": "https://mangapark.net/apo/",
     "version": "1.0.3",
     "isManga": true,
     "itemType": 0,
@@ -339,7 +389,10 @@
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
     "sourceCodeLanguage": 0,
-    "internalTags": ["BL-compatible", "mainstream"]
+    "internalTags": [
+      "BL-compatible",
+      "mainstream"
+    ]
   },
   {
     "name": "Bato.to",
@@ -353,7 +406,11 @@
     "hasCloudflare": true,
     "itemType": 1,
     "baseUrl": "https://bato.to",
-    "internalTags": ["BL-compatible", "mainstream", "webtoon/webcomic"]
+    "internalTags": [
+      "BL-compatible",
+      "mainstream",
+      "webtoon/webcomic"
+    ]
   },
   {
     "name": "Mangadex",
@@ -367,7 +424,10 @@
     "hasCloudflare": false,
     "itemType": 1,
     "baseUrl": "https://mangadex.org",
-    "internalTags": ["BL-compatible", "mainstream"]
+    "internalTags": [
+      "BL-compatible",
+      "mainstream"
+    ]
   },
   {
     "name": "Toonily",
@@ -381,7 +441,11 @@
     "hasCloudflare": true,
     "itemType": 1,
     "baseUrl": "https://toonily.com",
-    "internalTags": ["BL-compatible", "webtoon/webcomic", "NSFW BL"]
+    "internalTags": [
+      "BL-compatible",
+      "webtoon/webcomic",
+      "NSFW BL"
+    ]
   },
   {
     "name": "Mangabuddy",
@@ -395,6 +459,58 @@
     "hasCloudflare": true,
     "itemType": 1,
     "baseUrl": "https://mangabuddy.com",
-    "internalTags": ["BL-compatible", "mainstream", "webtoon/webcomic"]
+    "internalTags": [
+      "BL-compatible",
+      "mainstream",
+      "webtoon/webcomic"
+    ]
+  },
+  {
+    "name": "Comick",
+    "id": 1948293,
+    "baseUrl": "https://comick.io",
+    "lang": "en",
+    "typeSource": "single",
+    "iconUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/icon/en-comick.png",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": true,
+    "hasCloudflare": true,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/javascript/manga/src/en/comick.js",
+    "apiUrl": "https://api.comick.fun",
+    "version": "1.0.0",
+    "isManga": true,
+    "itemType": 0,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1,
+    "internalTags": [
+      "mainstream"
+    ]
+  },
+  {
+    "name": "NineMangaEn",
+    "id": 4829104,
+    "baseUrl": "https://www.ninemanga.com",
+    "lang": "en",
+    "typeSource": "single",
+    "iconUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/icon/en-ninemanga.png",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": true,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/javascript/manga/src/en/ninemanga.js",
+    "apiUrl": "",
+    "version": "1.0.0",
+    "isManga": true,
+    "itemType": 0,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1,
+    "internalTags": [
+      "mainstream"
+    ]
   }
 ]
