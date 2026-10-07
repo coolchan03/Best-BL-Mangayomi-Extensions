@@ -44,28 +44,6 @@
     "notes": "This extension requires you to login to view the chapters!"
   },
   {
-    "name": "Novelbuddy",
-    "id": 2507947282,
-    "baseUrl": "https://novelbuddy.com",
-    "lang": "en",
-    "typeSource": "single",
-    "iconUrl": "https://www.google.com/s2/favicons?sz=256&domain=https://novelbuddy.com/",
-    "dateFormat": "",
-    "dateFormatLocale": "",
-    "isNsfw": false,
-    "hasCloudflare": false,
-    "sourceCodeUrl": "https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/javascript/novel/src/en/novelbuddy.js",
-    "apiUrl": "",
-    "version": "0.0.9",
-    "isManga": false,
-    "itemType": 2,
-    "isFullData": false,
-    "appMinVerReq": "0.5.0",
-    "additionalParams": "",
-    "sourceCodeLanguage": 1,
-    "notes": ""
-  },
-  {
     "name": "NovelFire",
     "id": 327690672,
     "baseUrl": "https://novelfire.net",
@@ -76,16 +54,16 @@
     "dateFormatLocale": "",
     "isNsfw": false,
     "hasCloudflare": false,
-    "sourceCodeUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/javascript/novel/src/en/novelfire.js",
+    "sourceCodeUrl": "https://raw.githubusercontent.com/coolchan03/Best-BL-Mangayomi-Extensions/main/javascript/novel/src/en/novelfire.js",
     "apiUrl": "",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "isManga": false,
     "itemType": 2,
     "isFullData": false,
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
     "sourceCodeLanguage": 1,
-    "notes": ""
+    "notes": "Fixed ongoing/completed status mapping for Manga Reader."
   },
   {
     "name": "Wordrain69",
@@ -120,16 +98,16 @@
     "dateFormatLocale": "",
     "isNsfw": false,
     "hasCloudflare": false,
-    "sourceCodeUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/javascript/novel/src/en/bookreadfree.js",
+    "sourceCodeUrl": "https://raw.githubusercontent.com/coolchan03/Best-BL-Mangayomi-Extensions/main/javascript/novel/src/en/bookreadfree.js",
     "apiUrl": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "isManga": false,
     "itemType": 2,
     "isFullData": false,
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
     "sourceCodeLanguage": 1,
-    "notes": ""
+    "notes": "Return chapter HTML as a string for Manga Reader compatibility."
   },
   {
     "name": "Web Novel Translations",
