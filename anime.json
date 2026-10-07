@@ -196,5 +196,27 @@
     "additionalParams": "",
     "sourceCodeLanguage": 1,
     "notes": "Manga Reader build: debrid streams only; raw magnet/torrent playback is not supported."
+  },
+  {
+    "name": "Anikoto",
+    "id": 206730385,
+    "baseUrl": "https://anikototv.to",
+    "lang": "all",
+    "typeSource": "single",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=256&domain=https://anikototv.to/",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/javascript/anime/src/all/anikoto.js",
+    "apiUrl": "",
+    "version": "1.0.5",
+    "isManga": false,
+    "itemType": 1,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1,
+    "notes": "Validated Manga Reader candidate: resolves direct media URL with headers and subtitles in JavaScript."
   }
 ]
