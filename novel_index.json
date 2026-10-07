@@ -98,16 +98,16 @@
     "dateFormatLocale": "",
     "isNsfw": false,
     "hasCloudflare": false,
-    "sourceCodeUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/javascript/novel/src/en/wordrain69.js",
+    "sourceCodeUrl": "https://raw.githubusercontent.com/coolchan03/Best-BL-Mangayomi-Extensions/main/javascript/novel/src/en/wordrain69.js",
     "apiUrl": "",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "isManga": false,
     "itemType": 2,
     "isFullData": false,
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
     "sourceCodeLanguage": 1,
-    "notes": ""
+    "notes": "Updated listing route for current Wordrain69 site."
   },
   {
     "name": "bookReadFree",
