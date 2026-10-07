@@ -90,7 +90,7 @@
   {
     "name": "KickAssAnime",
     "id": 4096048097,
-    "baseUrl": "https://kaa.to",
+    "baseUrl": "https://kaa.lt",
     "lang": "en",
     "typeSource": "multi",
     "iconUrl": "https://www.google.com/s2/favicons?sz=256&domain=https://kaa.mx/",
@@ -107,7 +107,7 @@
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
     "sourceCodeLanguage": 1,
-    "notes": ""
+    "notes": "Current JavaScript source; base URL refreshed to kaa.lt."
   },
   {
     "name": "AniWatchTV",
