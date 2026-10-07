@@ -174,5 +174,27 @@
     "additionalParams": "",
     "sourceCodeLanguage": 1,
     "notes": "Site redirects to redesigned wntl.net and no longer matches the old Madara selectors; excluded from Manga Reader JS-only feed pending rewrite."
+  },
+  {
+    "name": "ملوك الروايات",
+    "id": 756554088,
+    "baseUrl": "https://kolnovel.com",
+    "lang": "ar",
+    "typeSource": "single",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=256&domain=https://kolnovel.com",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/javascript/novel/src/ar/kolnovel.js",
+    "apiUrl": "",
+    "version": "0.0.1",
+    "isManga": false,
+    "itemType": 2,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1,
+    "notes": ""
   }
 ]
