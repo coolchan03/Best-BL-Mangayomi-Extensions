@@ -1,27 +1,5 @@
 [
   {
-    "name": "AllAnime",
-    "id": 558217176,
-    "baseUrl": "https://allmanga.to",
-    "lang": "en",
-    "typeSource": "single",
-    "iconUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/javascript/icon/en.allanime.png",
-    "dateFormat": "",
-    "dateFormatLocale": "",
-    "isNsfw": false,
-    "hasCloudflare": false,
-    "sourceCodeUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/javascript/anime/src/en/allanime.js",
-    "apiUrl": "https://api.allanime.day/api",
-    "version": "0.0.6",
-    "isManga": false,
-    "itemType": 1,
-    "isFullData": false,
-    "appMinVerReq": "0.5.0",
-    "additionalParams": "",
-    "sourceCodeLanguage": 1,
-    "notes": "Massive catalog for mainstream titles"
-  },
-  {
     "name": "KickAssAnime",
     "id": 4096048097,
     "baseUrl": "https://kaa.lt",
@@ -54,15 +32,15 @@
     "dateFormatLocale": "",
     "isNsfw": false,
     "hasCloudflare": false,
-    "sourceCodeUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/javascript/anime/src/all/torrentioanime.js",
+    "sourceCodeUrl": "https://raw.githubusercontent.com/coolchan03/Best-BL-Mangayomi-Extensions/main/javascript/anime/src/all/torrentioanime.js",
     "apiUrl": "",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "isManga": false,
     "itemType": 1,
     "isFullData": false,
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
     "sourceCodeLanguage": 1,
-    "notes": "High quality scraped torrents"
+    "notes": "Manga Reader build: configure a debrid provider and token; raw magnet/torrent playback is not supported."
   }
 ]

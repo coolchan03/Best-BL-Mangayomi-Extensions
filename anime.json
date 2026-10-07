@@ -186,15 +186,15 @@
     "dateFormatLocale": "",
     "isNsfw": false,
     "hasCloudflare": false,
-    "sourceCodeUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/javascript/anime/src/all/torrentioanime.js",
+    "sourceCodeUrl": "https://raw.githubusercontent.com/coolchan03/Best-BL-Mangayomi-Extensions/main/javascript/anime/src/all/torrentioanime.js",
     "apiUrl": "",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "isManga": false,
     "itemType": 1,
     "isFullData": false,
     "appMinVerReq": "0.5.0",
     "additionalParams": "",
     "sourceCodeLanguage": 1,
-    "notes": "High quality scraped torrents"
+    "notes": "Manga Reader build: debrid streams only; raw magnet/torrent playback is not supported."
   }
 ]
