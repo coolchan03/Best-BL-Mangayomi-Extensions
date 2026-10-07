@@ -108,27 +108,5 @@
     "additionalParams": "",
     "sourceCodeLanguage": 1,
     "notes": "Return chapter HTML as a string for Manga Reader compatibility."
-  },
-  {
-    "name": "Web Novel Translations",
-    "id": 1063819370,
-    "baseUrl": "https://webnoveltranslations.com",
-    "lang": "en",
-    "typeSource": "single",
-    "iconUrl": "https://raw.githubusercontent.com/entityJY/mangayomi-extensions-eJ/main/javascript/icon/en.webnoveltranslations.png",
-    "dateFormat": "",
-    "dateFormatLocale": "",
-    "isNsfw": false,
-    "hasCloudflare": false,
-    "sourceCodeUrl": "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/main/javascript/novel/src/en/webnoveltranslations.js",
-    "apiUrl": "",
-    "version": "1.0.1",
-    "isManga": false,
-    "itemType": 2,
-    "isFullData": false,
-    "appMinVerReq": "0.5.0",
-    "additionalParams": "",
-    "sourceCodeLanguage": 1,
-    "notes": ""
   }
 ]
