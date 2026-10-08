@@ -281,9 +281,9 @@
     "dateFormatLocale": "",
     "isNsfw": false,
     "hasCloudflare": false,
-    "sourceCodeUrl": "https://raw.githubusercontent.com/Swakshan/mangayomi-swak-extensions/refs/heads/main/javascript/manga/src/en/readcomiconline.js",
+    "sourceCodeUrl": "https://raw.githubusercontent.com/coolchan03/Best-BL-Mangayomi-Extensions/main/javascript/manga/src/en/readcomiconline.js",
     "apiUrl": "",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "isManga": true,
     "itemType": 0,
     "isFullData": false,
@@ -293,7 +293,8 @@
     "internalTags": [
       "western-comic",
       "mainstream"
-    ]
+    ],
+    "notes": "Manga Reader curated copy: fixes detail-page link construction."
   },
   {
     "name": "Comix",
