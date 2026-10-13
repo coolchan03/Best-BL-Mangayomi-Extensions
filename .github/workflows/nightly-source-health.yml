@@ -1,0 +1,70 @@
+name: Nightly extension health
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: nightly-source-health
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - name: Install isolated probe dependencies
+        run: npm ci --ignore-scripts --no-audit
+      - name: Unit tests
+        run: npm test
+      - name: Search and detail smoke checks (no GitHub write credentials)
+        run: npm run health
+      - name: Upload checked JSON only
+        uses: actions/upload-artifact@v4
+        with:
+          name: checked-source-indexes
+          path: |
+            index.json
+            novel_index.json
+            anime_index.json
+          if-no-files-found: error
+          retention-days: 2
+
+  publish:
+    needs: probe
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/download-artifact@v4
+        with:
+          name: checked-source-indexes
+          path: checked-indexes
+      - name: Merge only verified health metadata
+        run: node scripts/apply-health-results.mjs ./checked-indexes
+      - name: Commit nightly source statuses
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.json novel_index.json anime_index.json
+          if git diff --cached --quiet; then
+            echo "No health status changes"
+          else
+            git commit -m "health: refresh checked extension statuses"
+            git push origin HEAD:main
+          fi

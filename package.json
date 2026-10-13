@@ -1,0 +1,12 @@
+{
+  "name": "monogatari-extension-health",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "health": "node scripts/check-sources.mjs"
+  },
+  "dependencies": {
+    "cheerio": "1.1.2"
+  }
+}
