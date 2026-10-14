@@ -21,8 +21,8 @@
     "sourceCodeLanguage": 1,
     "notes": "EPUBs are automatically downloaded to view chapters! Downloads from Libgen might be slow!",
     "status": "unverified",
-    "checkedAt": "2026-10-13T16:42:09.378Z",
-    "probeReason": "runtime_Cannot_read_properties_of_undefined_reading_getSrc_",
+    "checkedAt": "2026-10-14T14:18:48.491Z",
+    "probeReason": "runtime_The_operation_was_aborted_due_to_timeout",
     "failureStreak": 0,
     "probeHash": "c6a379bdfe982a927788284f07b14594c472bc79adca47bf1953b26fa18153f7"
   },
@@ -48,7 +48,7 @@
     "sourceCodeLanguage": 1,
     "notes": "This extension requires you to login to view the chapters!",
     "status": "unverified",
-    "checkedAt": "2026-10-13T16:42:09.378Z",
+    "checkedAt": "2026-10-14T14:18:48.491Z",
     "probeReason": "runtime_HTTP_403",
     "failureStreak": 0,
     "probeHash": "26c289604333be97c28ed8b555755557f397d96a7f9fc9b18c902fe973b0b395"
@@ -75,7 +75,7 @@
     "sourceCodeLanguage": 1,
     "notes": "Fixed ongoing/completed status mapping for Manga Reader.",
     "status": "unverified",
-    "checkedAt": "2026-10-13T16:42:09.378Z",
+    "checkedAt": "2026-10-14T14:18:48.491Z",
     "probeReason": "runtime_HTTP_403",
     "failureStreak": 0,
     "probeHash": "704ec4cbb2cf65335cc9704b22ea6798637ae50251b1427a6911b4910418163d"
@@ -102,7 +102,7 @@
     "sourceCodeLanguage": 1,
     "notes": "Updated listing route for current Wordrain69 site.",
     "status": "unverified",
-    "checkedAt": "2026-10-13T16:42:09.378Z",
+    "checkedAt": "2026-10-14T14:18:48.491Z",
     "probeReason": "runtime_HTTP_403",
     "failureStreak": 0,
     "probeHash": "9a406c315aa6e1c180800bb2306ab28ef7f91d3d2f317cc3f48a7c8ae676f962"
@@ -129,7 +129,7 @@
     "sourceCodeLanguage": 1,
     "notes": "Return chapter HTML as a string for Manga Reader compatibility.",
     "status": "ok",
-    "checkedAt": "2026-10-13T16:42:09.378Z",
+    "checkedAt": "2026-10-14T14:18:48.491Z",
     "probeReason": "search_and_detail_verified",
     "failureStreak": 0,
     "probeHash": "1b88af4970d993acd13de45709287815cd17c6c3263c50b54b960289ba61c86f"
@@ -156,7 +156,7 @@
     "sourceCodeLanguage": 1,
     "notes": "",
     "status": "unverified",
-    "checkedAt": "2026-10-13T16:42:09.378Z",
+    "checkedAt": "2026-10-14T14:18:48.491Z",
     "probeReason": "runtime_HTTP_400",
     "failureStreak": 0,
     "probeHash": "8ed79ebe78d9191412e70165e0d5b245a5c0b8f74dee96b7fadcc35a1599c1ce"
