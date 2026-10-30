@@ -21,7 +21,7 @@
     "sourceCodeLanguage": 1,
     "notes": "Current JavaScript source; base URL refreshed to kaa.lt.",
     "status": "unverified",
-    "checkedAt": "2026-10-29T15:49:37.067Z",
+    "checkedAt": "2026-10-30T15:30:37.787Z",
     "probeReason": "runtime_Invalid_URL",
     "failureStreak": 0,
     "probeHash": "d963c3c7d32ac85ec2c4ce3185dfbbcfd42e39a0e9ad4ec4bca9c6bd02052a4c"
@@ -48,7 +48,7 @@
     "sourceCodeLanguage": 1,
     "notes": "Manga Reader build: configure a debrid provider and token; raw magnet/torrent playback is not supported.",
     "status": "unverified",
-    "checkedAt": "2026-10-29T15:49:37.067Z",
+    "checkedAt": "2026-10-30T15:30:37.787Z",
     "probeReason": "runtime_Headers_append_query_page_Int_perPage_Int_sort_MediaSort_search_String",
     "failureStreak": 0,
     "probeHash": "b464875032e72997469a3bb6a6cca20b361855420175c7e75503189d264a22a4"
@@ -75,7 +75,7 @@
     "sourceCodeLanguage": 1,
     "notes": "Validated Manga Reader candidate: resolves direct media URL with headers and subtitles in JavaScript.",
     "status": "unverified",
-    "checkedAt": "2026-10-29T15:49:37.067Z",
+    "checkedAt": "2026-10-30T15:30:37.787Z",
     "probeReason": "runtime_Invalid_URL",
     "failureStreak": 0,
     "probeHash": "3fd9bc2ad13a2bdee12ddd0af7a521231dc7c08cd02a04de3a3a67b078856774"
